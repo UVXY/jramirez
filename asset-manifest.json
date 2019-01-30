@@ -1,14 +1,14 @@
 {
-  "main.css": "/jramirez/static/css/main.2c61ba22.chunk.css",
-  "main.js": "/jramirez/static/js/main.a7cbabdf.chunk.js",
-  "main.js.map": "/jramirez/static/js/main.a7cbabdf.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/jramirez/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/jramirez/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/jramirez/static/css/main.3275a106.chunk.css",
+  "main.js": "/jramirez/static/js/main.e118e5b0.chunk.js",
+  "main.js.map": "/jramirez/static/js/main.e118e5b0.chunk.js.map",
+  "static/js/1.04f3b729.chunk.js": "/jramirez/static/js/1.04f3b729.chunk.js",
+  "static/js/1.04f3b729.chunk.js.map": "/jramirez/static/js/1.04f3b729.chunk.js.map",
   "runtime~main.js": "/jramirez/static/js/runtime~main.0840ced1.js",
   "runtime~main.js.map": "/jramirez/static/js/runtime~main.0840ced1.js.map",
-  "static/media/logo.svg": "/jramirez/static/media/logo.5d5d9eef.svg",
-  "static/css/main.2c61ba22.chunk.css.map": "/jramirez/static/css/main.2c61ba22.chunk.css.map",
+  "static/media/logo.png": "/jramirez/static/media/logo.841b402b.png",
+  "static/css/main.3275a106.chunk.css.map": "/jramirez/static/css/main.3275a106.chunk.css.map",
   "index.html": "/jramirez/index.html",
-  "precache-manifest.693db4392407e6deea7c4ccdb4611607.js": "/jramirez/precache-manifest.693db4392407e6deea7c4ccdb4611607.js",
+  "precache-manifest.d2d453ebeadd3fd8340e1b5b2214be33.js": "/jramirez/precache-manifest.d2d453ebeadd3fd8340e1b5b2214be33.js",
   "service-worker.js": "/jramirez/service-worker.js"
 }
