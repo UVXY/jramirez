@@ -1,14 +1,14 @@
 {
-  "main.css": "/jramirez/static/css/main.3275a106.chunk.css",
-  "main.js": "/jramirez/static/js/main.e118e5b0.chunk.js",
-  "main.js.map": "/jramirez/static/js/main.e118e5b0.chunk.js.map",
-  "static/js/1.04f3b729.chunk.js": "/jramirez/static/js/1.04f3b729.chunk.js",
-  "static/js/1.04f3b729.chunk.js.map": "/jramirez/static/js/1.04f3b729.chunk.js.map",
-  "runtime~main.js": "/jramirez/static/js/runtime~main.0840ced1.js",
-  "runtime~main.js.map": "/jramirez/static/js/runtime~main.0840ced1.js.map",
-  "static/media/logo.png": "/jramirez/static/media/logo.841b402b.png",
-  "static/css/main.3275a106.chunk.css.map": "/jramirez/static/css/main.3275a106.chunk.css.map",
-  "index.html": "/jramirez/index.html",
-  "precache-manifest.d2d453ebeadd3fd8340e1b5b2214be33.js": "/jramirez/precache-manifest.d2d453ebeadd3fd8340e1b5b2214be33.js",
-  "service-worker.js": "/jramirez/service-worker.js"
+  "main.css": "/static/css/main.3275a106.chunk.css",
+  "main.js": "/static/js/main.a1264b42.chunk.js",
+  "main.js.map": "/static/js/main.a1264b42.chunk.js.map",
+  "static/js/1.04f3b729.chunk.js": "/static/js/1.04f3b729.chunk.js",
+  "static/js/1.04f3b729.chunk.js.map": "/static/js/1.04f3b729.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.png": "/static/media/logo.841b402b.png",
+  "static/css/main.3275a106.chunk.css.map": "/static/css/main.3275a106.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.9b68afb8bb03c3619ded6987903cd229.js": "/precache-manifest.9b68afb8bb03c3619ded6987903cd229.js",
+  "service-worker.js": "/service-worker.js"
 }
