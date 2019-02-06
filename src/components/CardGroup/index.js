@@ -7,7 +7,7 @@ export default class index extends Component {
         <CardGroup>
         <Card>
           {/* <Card.Img variant="top"> */}
-          <Image src={require('../assets/images/scenic.JPG')} roundedCircle/>
+          <Image src={require('../assets/images/scenic.JPG')} variant='top' roundedCircle/>
           {/* </Card.Img> */}
           <Card.Body>
             <Card.Title>Card title</Card.Title>

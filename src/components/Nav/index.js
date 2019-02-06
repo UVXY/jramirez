@@ -43,8 +43,8 @@ class Nav extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light mb-2">
         <Link className="navbar-brand" to="/">
-        <image src="./logo.png"/>
-          Portfolio
+        <img src={require('./logo.png')}/>
+          Dynamics
         </Link>
         <button
           onClick={this.toggleNav}
